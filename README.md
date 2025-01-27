@@ -1,5 +1,5 @@
-<h1 align="center">WELCOME TO MY PROFILE<br>I’m Je. Modassir Quaisar</h1>
-<img src="https://www.canva.com/design/DAGdUMZuqYM/5RDch_GmItV0RL7AsjlQLQ/view?utm_content=DAGdUMZuqYM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb47f7dc493">
+<h1 align="center">💫 WELCOME TO MY PROFILE<br>I’m Modassir Quaisar 💫 </h1>
+<img align ="center]" src="https://github.com/ModassirQuaisar/Certificate/blob/main/Modassir%20Quaisar.png">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 <h1>💫 About Me:</h1>
