@@ -16,6 +16,6 @@
 </p><hr>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Power BI]([https://img.shields.io/badge/powerBI-3670A0?style=flat&logo=powerBI&logoColor=ffdd54](https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo-2016.png))<hr>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Power BI]([https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo-2016.png])<hr>
 
 <h1 align="center">Thank You for Visiting</h1>
