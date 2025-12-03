@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 <h1>💫 About Me:</h1>
 🔭 I’m currently working on Data Science & Data Analytics <br>👯 I’m looking to collaborate on AI/ML projects<br>🤝 I’m looking for help with Dart<br>🌱 I’m currently learning Flutter<br>⚡ Fun fact: I love cats a lot.
-<br>💬 Ask me about **html/Css, python.**<br>
+<br>💬 Ask me about **python, Power BI, MySQL.**<br>
 📫 How to reach me **modassirquaisar4@gmail.com**<br>
 ⚡ Fun fact **I am funny**<hr>
 
@@ -17,11 +17,5 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)<hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=modassir-quaisar&show_icons=true&locale=en&layout=compact" alt="modassir-quaisar" /></p><hr>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=modassir-quaisar&show_icons=true&locale=en" alt="modassir-quaisar" /></p><hr>
-
-<hr><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modassir-quaisar&" alt="modassir-quaisar" /></p><hr>
 
 <h1 align="center">Thank You for Visiting</h1>
